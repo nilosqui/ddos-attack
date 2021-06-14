@@ -7,10 +7,10 @@ Apenas um script de fazer ataques Ddos.
 
 
 ```
- pkg install nodejs-lts
+ pkg install python
  pkg install git
-    git clone https://github.com/nilosqui/Conversor-de-Real
-    cd Conversor-de-Real
-    node index.js
+    git clone https://github.com/nilosqui/ddos-attack
+    cd ddos-attack
+    python main.py
 ```
 Tenha um bom aproveitamento 
